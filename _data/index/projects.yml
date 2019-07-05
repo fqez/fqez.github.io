@@ -1,0 +1,43 @@
+# projects section data
+# If you don't have language feature(language.yml is empty), ignore "i18n" items
+# Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
+
+- name: Unibotics
+  i18n: unibotics
+  url: https://unibotics.org
+  img: /static/assets/img/landing/unibotics.png
+  desc: This particular project was the logical step after the JdeRobot-Academy project, where we have different robotics related exercises for College students to solve. We ported that to a web application so everyone working on every kind of PC can get access and solve the same exercises in a comfortable way.
+
+- name: Kibotics
+  i18n: kibotics
+  url: https://kibotics.org
+  img: /static/assets/img/landing/kibotics.png
+  desc: This project (currently our biggest one along with JdeRobot) is meant for undergrad students to learn how to code and even more, how to code software for robots. It supports programming languages such as Scratch, Python and JavaScript and has support for our own robot (PiBot) and it's own simulator developed by us (WebSim).
+
+- name: Websim
+  i18n: websim
+  url: https://kibotics.org
+  img: /static/assets/img/landing/kibotics.png
+  desc: Websim is a web-based simulator. It was developed in order to reduce the server-side computation cost of Gazebo (Unibotics and Kibotics official simulator). It is developed using cutting-edge web technologies such as A-Frame (https://aframe.io).
+
+- name: JdeRobot
+  i18n: jderobot
+  gh_user: fqez
+  repo: https://github.com/JdeRobot
+  url: https://jderobot.org
+  img: /static/assets/img/landing/circulos.png
+  desc: This is a project I've been working on for the last 4 years. It started as a robotics middleware but it evolved into a robotic Framework giving birth to our most recent web applications. Unibotics.org and Kibotics.org
+
+- name: Google Summer of Code
+  i18n: gsoc
+  url: https://summerofcode.withgoogle.com/organizations/6728816414687232/#4672805059166208
+  img: /static/assets/img/landing/gsoc.png
+  desc: Our project was selected as one of the Google Summer of Code Organizations in 2016, 2018 and 2019.
+
+- name: Robotics Academy
+  i18n: academy
+  gh_user: fqez
+  repo: https://github.com/JdeRobot/RoboticsAcademy
+  img: /static/assets/img/landing/circulos.png
+  desc: This project is other's project. I use another request to get repo's information.
+

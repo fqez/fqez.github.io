@@ -1,0 +1,9 @@
+# skills section data
+
+label: Ability
+id : cs
+#aspects: GitHub, Java, C++, Python, Machine and Deep Learing, Computer Vision, Linux
+#percentage: 90, 85, 65, 80, 75, 85, 85, 75, 
+
+aspects: AI (Artificial Vision), Robotics, C++, Java, Computer Vision, Machine and Deep Learning, Python, Jupyter, Docker, Linux
+percentage: 75, 85, 65, 85, 85, 80, 80, 75, 80, 80

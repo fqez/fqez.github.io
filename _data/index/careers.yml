@@ -1,0 +1,60 @@
+# careers section data
+# if you don't have language feature(language.yml is empty), ignore "i18n" items
+- name:
+    detail: Universidad Rey Juan Carlos
+    i18n: urjc
+  desc:
+    detail: Currently working as investigator in URJC's robotics department. Kibotics.org and Unibotics.org platforms developer.
+    i18n: urjc_inv_rob
+  date:
+    detail: Now
+    i18n: urjc_date
+  job:
+    detail: Robotics education platform
+    i18n: urjc_inv
+  icon: fa-raspberry-pi
+  present: true
+
+- name:
+    detail: Universidad Rey Juan Carlos
+    i18n: urjc_2
+  desc:
+    detail: Investigator and developer for JdeRobot's framework. Commiter and maintainer of the project.
+    i18n: urjc_2_inv_rob
+  date:
+    detail: Sept. 2018
+    i18n: urjc_2_date
+  job:
+    detail: Robotics simulations and teaching platform
+    i18n: urjc_inv
+  icon: fa-github
+  present: true
+
+- name:
+    detail: Universidad Rey Juan Carlos
+    i18n: prof
+  desc:
+    detail: University Professor of robotics practice. Autonomous drones and cars programming.
+    i18n: prof_desc
+  date:
+    detail: Mar. 2017
+    i18n: prof_date
+  job:
+    detail: Professor
+    i18n: prof_job
+  icon: fa-chalkboard-teacher
+
+- name:
+    detail: Colegio Villa de Móstoles.
+    i18n: prof_2
+  desc:
+    detail: High school teacher of robotics. Python and MBot.
+    i18n: prof_2_desc
+  date:
+    detail: Sept. 2017
+    i18n: prof_date
+  job:
+    detail: Robotics teacher
+    i18n: prof_2_job
+  icon: fa-chalkboard
+
