@@ -28,7 +28,7 @@ author: # change following line to your infomation.
   skill_icon2:
     - name: icon-docker
     - name: fa-github
-  desc: Computer and Computer Vision engineer. Passioate for AI, IoT (domotics), new technologies and videogames! # Describe yourself.
+  desc: Computer and Computer Vision engineer. Passionate for AI, IoT (domotics), new technologies and videogames! # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
